@@ -1,0 +1,3 @@
+How to set fish as default terminal. 
+-> shell path = path to fish exe (something like opt/homebrew/?/fish?)
+-> uncheck shell integeration 
